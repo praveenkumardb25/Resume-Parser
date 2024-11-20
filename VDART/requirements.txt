@@ -1,0 +1,13 @@
+re
+pdfplumber
+pytesseract
+Pillow
+os
+spacy
+smtplib
+email
+glob
+torch
+transformers
+scikit-learn
+pandas
